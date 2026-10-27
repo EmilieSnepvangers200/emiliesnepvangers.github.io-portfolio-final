@@ -66,18 +66,18 @@ body {
 .lines{font-size:10px; background-color:rgb(64, 3, 246)}
 } 
 body {
-  #tekst1{ background-image: url(images/OIP.webp) }
-  #tekst3{ background-image: url(images/OIP.webp) }
-  #tekst5 { background-image: url(images/OIP.webp) }
+  #tekst1{ background-image: url(OIP.webp) }
+  #tekst3{ background-image: url(OIP.webp) }
+  #tekst5 { background-image: url(OIP.webp) }
 }
 body{ 
-  #foto{background-image:url(images/OIP.webp) }
+  #foto{background-image:url(OIP.webp) }
 }
 body{ 
   #spiderman{ width: 1512px; height: 50px; }  
 }
 body{
-  .marvel{background-image:url(images/poster.webp)  }  
+  .marvel{background-image:url(poster.webp)  }  
 
 
 }
