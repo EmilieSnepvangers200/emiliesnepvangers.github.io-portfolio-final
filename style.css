@@ -1,0 +1,83 @@
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+img {
+  max-width: 1800px;
+  height: 500px ;
+}
+ 
+
+body {
+ background-color: rgb(233, 8, 34); }  
+
+body {
+   font-family: Helvetica, Arial, Sans-serif;}
+
+   p {
+    color:rgb(80, 204, 163); 
+    
+}
+h1 {
+  color:rgb(148, 78, 213) }
+
+h1 {
+  background-color:brown; 
+
+}
+
+h2 {
+  color:rgb(219, 156, 187)
+}
+ h2 {
+  background-color:brown;
+ }
+ h3{ color:#2b58c1} 
+
+ a:hover { 
+  color: yellow; 
+ }
+ div.a {
+  text-align: center; 
+ }
+ div.b {
+  text-align: center; 
+ }
+  div.d { border-width: 5px; border-color: oringe;} 
+ 
+ #contactinformatie {
+  font-weight: bold;
+}
+#marvel-poster  { width: 1512px} 
+#schrijf { color:rgb(9, 255, 5)}
+#weg { display: none; }
+body {
+.fire {font-size: 30px; background-color: rgb(169, 4, 4); } 
+}
+body {
+.lines{font-size:10px; background-color:rgb(64, 3, 246)}
+} 
+body {
+  #tekst1{ background-image: url(images/OIP.webp) }
+  #tekst3{ background-image: url(images/OIP.webp) }
+  #tekst5 { background-image: url(images/OIP.webp) }
+}
+body{ 
+  #foto{background-image:url(images/OIP.webp) }
+}
+body{ 
+  #spiderman{ width: 1512px; height: 50px; }  
+}
+body{
+  .marvel{background-image:url(images/poster.webp)  }  
+
+
+}
